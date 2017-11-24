@@ -1,0 +1,35 @@
+
+
+.veri_container{
+	position: absolute;
+	top: 20%;
+	width: 100%;
+
+	.veri_code_input{
+		width: 60%;
+		padding:  5px 2%;
+		font-size: 16px;
+		border: none;
+	}
+
+	.veri_again_button{
+		background-color: #8B4513;
+		font-size: 14px;
+		display: inline-block;
+		width: 35%;
+		text-align: center;
+		padding: 5px 1%;
+		margin-left: 1%;
+		box-sizing: border-box;
+    border-radius: 4px;
+	}
+
+	.error_phone_num{
+		background-color : red;
+	}
+
+	.countdown_ing{
+		background-color: #696969;
+	}
+}
+

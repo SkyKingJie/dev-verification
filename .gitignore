@@ -1,0 +1,17 @@
+.idea/
+dist/
+node_modules/
+.DS_Store
+*.log
+*.swp
+*.tgz
+*.zip
+src/pic/
+images/
+src/components/banner/images/
+src/components/coupon/images/
+src/components/timeline/images/
+src/pic/images/timeline1.jpg
+src/pic/images/timeline2.jpg
+src/pic/images/timeline3.jpg
+src/pic/images/timeline4.jpg
